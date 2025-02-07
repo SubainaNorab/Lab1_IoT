@@ -2,3 +2,5 @@
 
 # IoT course lab 1
 #again
+
+#Sensor reading done
